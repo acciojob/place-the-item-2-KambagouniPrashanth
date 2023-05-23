@@ -1,2 +1,33 @@
 
 /* Your CSS Code here. */
+
+/* Your CSS Code here. */
+holder{
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction:row;
+}
+.item-1{
+    width: 80px;
+    height: 80px;
+	font-size:40px;
+	font-weight:200;
+
+    background-color: green;
+}
+
+.item-2{
+     width: 80px;
+    height: 80px;
+	font-size:40px;
+	font-weight:200;
+    background-color: red;
+}
+
+.item-3{
+     width: 80px;
+    height: 80px;
+	font-size:40px;
+	font-weight:200;
+    background-color: blue;
+}
