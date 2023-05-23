@@ -2,7 +2,7 @@
 /* Your CSS Code here. */
 
 /* Your CSS Code here. */
-holder{
+.holder{
     display: flex;
     flex-wrap:wrap;
     flex-direction:row;
